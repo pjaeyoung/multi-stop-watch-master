@@ -1,0 +1,13 @@
+{
+  "homepage": "https://pjaeyoung.github.io/multi-stop-watch-master",
+  "name": "Multi-Stop-Watch-master",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/pjaeyoung/multi-stop-watch-master.git",
+  "author": "parkjaeyoung <devdodose@mycroft.kr>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "gh-pages index.html"
+  },
+  "dependencies": {}
+}
